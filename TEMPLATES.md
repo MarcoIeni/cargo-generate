@@ -19,6 +19,7 @@
 - [rust-starter]: Bootstrap a Rust CLI application with Clap, [omarabid]
 - [rust-cli-template]: Write a CLI with [color_eyre] and [tracing] already set
   up, in addition to benchmarking and testing boilerplate [Rebecca Turner]
+- [github-template]: Write a generical rust application with CI and CD hosted on GitHub, [Marco Ieni]
 
 [PyO3]: https://github.com/DD5HT/pyo3-template
 [DD5HT]: https://github.com/DD5HT
@@ -57,3 +58,5 @@
 [Rebecca Turner]: https://github.com/9999years
 [color_eyre]: https://docs.rs/color_eyre
 [tracing]: https://docs.rs/tracing
+[github-template]: https://rust-github.github.io/
+[Marco Ieni]: https://github.com/MarcoIeni
